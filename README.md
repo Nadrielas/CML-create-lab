@@ -24,3 +24,5 @@ Que voulez vous tester via le nouveau lab ?
 2 : Test routage inter VLAN ROAS simple (un routeur, un switch et deux clients),
 
 3 : Test routage dynamique (3 routeurs, deux switchs et deux clients).
+
+En fonction du numéro choisi, le lab associé doit se créer sur CML, les nodes doivent être démarrés. 
